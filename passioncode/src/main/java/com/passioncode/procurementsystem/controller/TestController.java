@@ -13,5 +13,4 @@ public class TestController {
 //	public String layoutTest() {
 //		return "layout/layoutTest";
 //	}
-	//테스트중입니다
 }
